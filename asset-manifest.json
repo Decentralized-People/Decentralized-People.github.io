@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13ad8396.chunk.css",
+    "main.js": "/static/js/main.8dd65912.chunk.js",
+    "main.js.map": "/static/js/main.8dd65912.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8bef89ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8bef89ac.js.map",
+    "static/js/2.82903def.chunk.js": "/static/js/2.82903def.chunk.js",
+    "static/js/2.82903def.chunk.js.map": "/static/js/2.82903def.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.13ad8396.chunk.css.map": "/static/css/main.13ad8396.chunk.css.map",
+    "static/js/2.82903def.chunk.js.LICENSE.txt": "/static/js/2.82903def.chunk.js.LICENSE.txt",
+    "static/media/Aleksandr.a5972176.jpeg": "/static/media/Aleksandr.a5972176.jpeg",
+    "static/media/Fatima.4e1dfab8.jpg": "/static/media/Fatima.4e1dfab8.jpg",
+    "static/media/Revaz.7903f65f.jpg": "/static/media/Revaz.7903f65f.jpg",
+    "static/media/asi.2b04c4d6.png": "/static/media/asi.2b04c4d6.png",
+    "static/media/dp_logo_color.a63ddee7.svg": "/static/media/dp_logo_color.a63ddee7.svg",
+    "static/media/earth.d6b2cafc.gif": "/static/media/earth.d6b2cafc.gif",
+    "static/media/gpi.f902960a.png": "/static/media/gpi.f902960a.png",
+    "static/media/video_developers.8c4a694b.mp4": "/static/media/video_developers.8c4a694b.mp4",
+    "static/media/video_projects.34693861.mp4": "/static/media/video_projects.34693861.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bef89ac.js",
+    "static/js/2.82903def.chunk.js",
+    "static/css/main.13ad8396.chunk.css",
+    "static/js/main.8dd65912.chunk.js"
+  ]
+}
