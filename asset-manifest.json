@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b4562aa.chunk.css",
-    "main.js": "/static/js/main.60a1c193.chunk.js",
-    "main.js.map": "/static/js/main.60a1c193.chunk.js.map",
+    "main.css": "/static/css/main.2ec7bfaf.chunk.css",
+    "main.js": "/static/js/main.70d0dae1.chunk.js",
+    "main.js.map": "/static/js/main.70d0dae1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8bef89ac.js",
     "runtime-main.js.map": "/static/js/runtime-main.8bef89ac.js.map",
     "static/js/2.e81b39a7.chunk.js": "/static/js/2.e81b39a7.chunk.js",
     "static/js/2.e81b39a7.chunk.js.map": "/static/js/2.e81b39a7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.2b4562aa.chunk.css.map": "/static/css/main.2b4562aa.chunk.css.map",
+    "static/css/main.2ec7bfaf.chunk.css.map": "/static/css/main.2ec7bfaf.chunk.css.map",
     "static/js/2.e81b39a7.chunk.js.LICENSE.txt": "/static/js/2.e81b39a7.chunk.js.LICENSE.txt",
     "static/media/Aleksandr_compress100.d97f9798.jpg": "/static/media/Aleksandr_compress100.d97f9798.jpg",
     "static/media/Fatima_compress100.db024132.jpg": "/static/media/Fatima_compress100.db024132.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.8bef89ac.js",
     "static/js/2.e81b39a7.chunk.js",
-    "static/css/main.2b4562aa.chunk.css",
-    "static/js/main.60a1c193.chunk.js"
+    "static/css/main.2ec7bfaf.chunk.css",
+    "static/js/main.70d0dae1.chunk.js"
   ]
 }
