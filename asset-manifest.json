@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8243682c.chunk.css",
-    "main.js": "/static/js/main.d690ca03.chunk.js",
-    "main.js.map": "/static/js/main.d690ca03.chunk.js.map",
+    "main.css": "/static/css/main.837417bd.chunk.css",
+    "main.js": "/static/js/main.fdf0663c.chunk.js",
+    "main.js.map": "/static/js/main.fdf0663c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8bef89ac.js",
     "runtime-main.js.map": "/static/js/runtime-main.8bef89ac.js.map",
     "static/js/2.af090a4d.chunk.js": "/static/js/2.af090a4d.chunk.js",
     "static/js/2.af090a4d.chunk.js.map": "/static/js/2.af090a4d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8243682c.chunk.css.map": "/static/css/main.8243682c.chunk.css.map",
+    "static/css/main.837417bd.chunk.css.map": "/static/css/main.837417bd.chunk.css.map",
     "static/js/2.af090a4d.chunk.js.LICENSE.txt": "/static/js/2.af090a4d.chunk.js.LICENSE.txt",
     "static/media/Aleksandr_compress100.d97f9798.jpg": "/static/media/Aleksandr_compress100.d97f9798.jpg",
+    "static/media/Chilotam.a93ac31e.jpg": "/static/media/Chilotam.a93ac31e.jpg",
     "static/media/David.60e3c9d4.jpg": "/static/media/David.60e3c9d4.jpg",
     "static/media/Fatima_compress100.db024132.jpg": "/static/media/Fatima_compress100.db024132.jpg",
     "static/media/Revaz_compress80.774f9272.jpg": "/static/media/Revaz_compress80.774f9272.jpg",
@@ -22,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.8bef89ac.js",
     "static/js/2.af090a4d.chunk.js",
-    "static/css/main.8243682c.chunk.css",
-    "static/js/main.d690ca03.chunk.js"
+    "static/css/main.837417bd.chunk.css",
+    "static/js/main.fdf0663c.chunk.js"
   ]
 }
